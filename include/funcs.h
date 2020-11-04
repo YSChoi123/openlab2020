@@ -3,5 +3,6 @@
 
 void foo();
 void my_sta();
+void my_exp();
 
 #endif

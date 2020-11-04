@@ -2,6 +2,6 @@
 #include <funcs.h>
 
 void main(){
-	
+	my_exp();	
 	foo();
 }

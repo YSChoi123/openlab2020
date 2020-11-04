@@ -7,5 +7,10 @@ void foo(){
 
 void my_sta(){
 	printf("mt really stable fuc\n");
+}
+
+void my_exp(){
+
+	printf("some experiment..\n");
 
 }
