@@ -4,3 +4,9 @@
 void foo(){
 	printf("hello\n");
 }
+
+void my_exp(){
+
+	printf("some experiment..\n");
+
+}
