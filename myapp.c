@@ -4,4 +4,5 @@
 void main(){
 	my_exp();	
 	foo();
+	my_sta();
 }
